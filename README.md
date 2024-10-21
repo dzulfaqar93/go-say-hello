@@ -1,1 +1,1 @@
-# go-say-hello
+# This is sample of Go-module
